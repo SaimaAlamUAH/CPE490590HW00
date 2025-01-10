@@ -1,0 +1,8 @@
+# -------------------
+# PYTHON
+# -------------------
+.ipynb_checkpoint/
+dist/
+*.egg-info/
+##-------------
+.vscode/
